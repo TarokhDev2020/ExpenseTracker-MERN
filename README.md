@@ -3,6 +3,11 @@
 
 Manage and track your expenses with MERN framework.
 
+## Features
+* Add your own expenses
+* Manage and track your own incomes and expenses
+* See your expenses logs
+
 ## Dependencies
 
 - Axios
