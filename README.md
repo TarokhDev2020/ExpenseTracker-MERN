@@ -16,6 +16,11 @@ Manage and track your expenses with MERN framework.
 - mongoose
 - morgan
 
+## Screenshots
+<img src="https://user-images.githubusercontent.com/72879576/174014042-df95662f-0a78-4987-aba6-9b21ff5ce2b5.png" alt="ExpenseTracker" width="350"/>
+<img src="https://user-images.githubusercontent.com/72879576/174014057-37709aeb-f6e4-46c1-b0b9-22c80ce20ade.png" alt="ExpenseTracker" width="350"/>
+<img src="https://user-images.githubusercontent.com/72879576/174014071-f41fcd6e-dc89-4f57-8c23-19b3ac9a176e.png" alt="ExpenseTracker" width="350"/>
+
 ## Installation
 
 Install my-project with npm
